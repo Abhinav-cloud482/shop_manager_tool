@@ -1,0 +1,6265 @@
+{
+    "2026-05-03 12:28:27.000000": {
+        "customer": "Rajeev Sharma",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            }
+        ],
+        "total": 1225.0,
+        "date": "2026-05-03 12:28:27.000000"
+    },
+    "2026-05-03 12:22:15.000000": {
+        "customer": "Rajeev Sharma",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            }
+        ],
+        "total": 613.0,
+        "date": "2026-05-03 12:22:15.000000"
+    },
+    "2026-05-04 00:57:18.000000": {
+        "customer": "Sanjana Verma",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            }
+        ],
+        "total": 1330.0,
+        "date": "2026-05-04 00:57:18.000000"
+    },
+    "2026-05-04 05:45:53.000000": {
+        "customer": "Sanjana Verma",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            }
+        ],
+        "total": 165.0,
+        "date": "2026-05-04 05:45:53.000000"
+    },
+    "2026-05-04 11:03:14.000000": {
+        "customer": "Amit Patel",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 2720.0,
+        "date": "2026-05-04 11:03:14.000000"
+    },
+    "2026-05-03 15:33:40.000000": {
+        "customer": "Amit Patel",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            }
+        ],
+        "total": 982.0,
+        "date": "2026-05-03 15:33:40.000000"
+    },
+    "2026-05-03 23:42:05.000000": {
+        "customer": "Neha Gupta",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            }
+        ],
+        "total": 640.0,
+        "date": "2026-05-03 23:42:05.000000"
+    },
+    "2026-05-03 22:24:27.000000": {
+        "customer": "Neha Gupta",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            }
+        ],
+        "total": 1595.0,
+        "date": "2026-05-03 22:24:27.000000"
+    },
+    "2026-05-04 00:11:22.000000": {
+        "customer": "Rohit Singh",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            }
+        ],
+        "total": 1605.0,
+        "date": "2026-05-04 00:11:22.000000"
+    },
+    "2026-05-03 18:33:19.000000": {
+        "customer": "Rohit Singh",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            }
+        ],
+        "total": 1680.0,
+        "date": "2026-05-03 18:33:19.000000"
+    },
+    "2026-05-03 14:59:30.000000": {
+        "customer": "Priya Nair",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            }
+        ],
+        "total": 1565.0,
+        "date": "2026-05-03 14:59:30.000000"
+    },
+    "2026-05-04 08:17:31.000000": {
+        "customer": "Priya Nair",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            }
+        ],
+        "total": 1215.0,
+        "date": "2026-05-04 08:17:31.000000"
+    },
+    "2026-05-03 18:55:07.000000": {
+        "customer": "Karan Mehta",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            }
+        ],
+        "total": 1115.0,
+        "date": "2026-05-03 18:55:07.000000"
+    },
+    "2026-05-04 10:38:43.000000": {
+        "customer": "Karan Mehta",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            }
+        ],
+        "total": 523.0,
+        "date": "2026-05-04 10:38:43.000000"
+    },
+    "2026-05-04 09:56:52.000000": {
+        "customer": "Pooja Joshi",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            }
+        ],
+        "total": 1045.0,
+        "date": "2026-05-04 09:56:52.000000"
+    },
+    "2026-05-04 07:28:58.000000": {
+        "customer": "Pooja Joshi",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            }
+        ],
+        "total": 995.0,
+        "date": "2026-05-04 07:28:58.000000"
+    },
+    "2026-05-03 15:17:34.000000": {
+        "customer": "Vikas Yadav",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 1310.0,
+        "date": "2026-05-03 15:17:34.000000"
+    },
+    "2026-05-03 17:31:18.000000": {
+        "customer": "Vikas Yadav",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            }
+        ],
+        "total": 1469.0,
+        "date": "2026-05-03 17:31:18.000000"
+    },
+    "2026-05-04 09:29:34.000000": {
+        "customer": "Anjali Mishra",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 1120.0,
+        "date": "2026-05-04 09:29:34.000000"
+    },
+    "2026-05-04 05:37:27.000000": {
+        "customer": "Anjali Mishra",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            }
+        ],
+        "total": 785.0,
+        "date": "2026-05-04 05:37:27.000000"
+    },
+    "2026-05-04 01:22:39.000000": {
+        "customer": "Suresh Kumar",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            }
+        ],
+        "total": 810.0,
+        "date": "2026-05-04 01:22:39.000000"
+    },
+    "2026-05-03 13:59:58.000000": {
+        "customer": "Suresh Kumar",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            }
+        ],
+        "total": 1650.0,
+        "date": "2026-05-03 13:59:58.000000"
+    },
+    "2026-05-04 04:59:51.000000": {
+        "customer": "Meena Iyer",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            }
+        ],
+        "total": 335.0,
+        "date": "2026-05-04 04:59:51.000000"
+    },
+    "2026-05-04 07:19:09.000000": {
+        "customer": "Meena Iyer",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            }
+        ],
+        "total": 910.0,
+        "date": "2026-05-04 07:19:09.000000"
+    },
+    "2026-05-04 08:21:47.000000": {
+        "customer": "Rahul Jain",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            }
+        ],
+        "total": 800.0,
+        "date": "2026-05-04 08:21:47.000000"
+    },
+    "2026-05-04 13:01:12.000000": {
+        "customer": "Rahul Jain",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            }
+        ],
+        "total": 1990.0,
+        "date": "2026-05-04 13:01:12.000000"
+    },
+    "2026-05-04 11:02:15.000000": {
+        "customer": "Sneha Kapoor",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            }
+        ],
+        "total": 700.0,
+        "date": "2026-05-04 11:02:15.000000"
+    },
+    "2026-05-04 00:40:16.000000": {
+        "customer": "Sneha Kapoor",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 600.0,
+        "date": "2026-05-04 00:40:16.000000"
+    },
+    "2026-05-03 16:18:32.000000": {
+        "customer": "Arjun Reddy",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            }
+        ],
+        "total": 845.0,
+        "date": "2026-05-03 16:18:32.000000"
+    },
+    "2026-05-03 18:43:40.000000": {
+        "customer": "Arjun Reddy",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            }
+        ],
+        "total": 781.0,
+        "date": "2026-05-03 18:43:40.000000"
+    },
+    "2026-05-03 17:39:53.000000": {
+        "customer": "Divya Saxena",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            }
+        ],
+        "total": 501.0,
+        "date": "2026-05-03 17:39:53.000000"
+    },
+    "2026-05-04 09:10:33.000000": {
+        "customer": "Divya Saxena",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            }
+        ],
+        "total": 705.0,
+        "date": "2026-05-04 09:10:33.000000"
+    },
+    "2026-05-04 00:11:48.000000": {
+        "customer": "Manish Tiwari",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            }
+        ],
+        "total": 1925.0,
+        "date": "2026-05-04 00:11:48.000000"
+    },
+    "2026-05-03 18:09:02.000000": {
+        "customer": "Manish Tiwari",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            }
+        ],
+        "total": 1705.0,
+        "date": "2026-05-03 18:09:02.000000"
+    },
+    "2026-05-04 09:42:01.000000": {
+        "customer": "Kavita Desai",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            }
+        ],
+        "total": 655.0,
+        "date": "2026-05-04 09:42:01.000000"
+    },
+    "2026-05-04 10:47:48.000000": {
+        "customer": "Kavita Desai",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            }
+        ],
+        "total": 1427.0,
+        "date": "2026-05-04 10:47:48.000000"
+    },
+    "2026-05-03 10:30:30.000000": {
+        "customer": "Sunil Chauhan",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            }
+        ],
+        "total": 460.0,
+        "date": "2026-05-03 10:30:30.000000"
+    },
+    "2026-05-04 02:45:21.000000": {
+        "customer": "Sunil Chauhan",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            }
+        ],
+        "total": 1594.0,
+        "date": "2026-05-04 02:45:21.000000"
+    },
+    "2026-05-03 23:57:42.000000": {
+        "customer": "Ritu Aggarwal",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            }
+        ],
+        "total": 175.0,
+        "date": "2026-05-03 23:57:42.000000"
+    },
+    "2026-05-04 09:57:17.000000": {
+        "customer": "Ritu Aggarwal",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            }
+        ],
+        "total": 333.0,
+        "date": "2026-05-04 09:57:17.000000"
+    },
+    "2026-05-04 05:33:47.000000": {
+        "customer": "Deepak Verma",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            }
+        ],
+        "total": 1065.0,
+        "date": "2026-05-04 05:33:47.000000"
+    },
+    "2026-05-04 01:13:54.000000": {
+        "customer": "Deepak Verma",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            }
+        ],
+        "total": 182.0,
+        "date": "2026-05-04 01:13:54.000000"
+    },
+    "2026-05-04 13:22:28.000000": {
+        "customer": "Shweta Pandey",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            }
+        ],
+        "total": 175.0,
+        "date": "2026-05-04 13:22:28.000000"
+    },
+    "2026-05-04 12:30:31.000000": {
+        "customer": "Shweta Pandey",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            }
+        ],
+        "total": 540.0,
+        "date": "2026-05-04 12:30:31.000000"
+    },
+    "2026-05-04 12:14:22.000000": {
+        "customer": "Nitin Sharma",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            }
+        ],
+        "total": 270.0,
+        "date": "2026-05-04 12:14:22.000000"
+    },
+    "2026-05-03 23:23:20.000000": {
+        "customer": "Nitin Sharma",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            }
+        ],
+        "total": 450.0,
+        "date": "2026-05-03 23:23:20.000000"
+    },
+    "2026-05-03 15:06:00.000000": {
+        "customer": "Aarti Singh",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            }
+        ],
+        "total": 1255.0,
+        "date": "2026-05-03 15:06:00.000000"
+    },
+    "2026-05-03 13:15:28.000000": {
+        "customer": "Aarti Singh",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 600.0,
+        "date": "2026-05-03 13:15:28.000000"
+    },
+    "2026-05-04 04:49:51.000000": {
+        "customer": "Gaurav Gupta",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            }
+        ],
+        "total": 1119.0,
+        "date": "2026-05-04 04:49:51.000000"
+    },
+    "2026-05-03 13:26:23.000000": {
+        "customer": "Gaurav Gupta",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            }
+        ],
+        "total": 665.0,
+        "date": "2026-05-03 13:26:23.000000"
+    },
+    "2026-05-03 11:59:38.000000": {
+        "customer": "Komal Yadav",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 1225.0,
+        "date": "2026-05-03 11:59:38.000000"
+    },
+    "2026-05-04 10:43:38.000000": {
+        "customer": "Komal Yadav",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            }
+        ],
+        "total": 770.0,
+        "date": "2026-05-04 10:43:38.000000"
+    },
+    "2026-05-04 07:44:26.000000": {
+        "customer": "Tarun Mehra",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            }
+        ],
+        "total": 216.0,
+        "date": "2026-05-04 07:44:26.000000"
+    },
+    "2026-05-04 00:39:13.000000": {
+        "customer": "Tarun Mehra",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 490.0,
+        "date": "2026-05-04 00:39:13.000000"
+    },
+    "2026-05-04 02:28:09.000000": {
+        "customer": "Nisha Kapoor",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            }
+        ],
+        "total": 577.0,
+        "date": "2026-05-04 02:28:09.000000"
+    },
+    "2026-05-03 17:59:28.000000": {
+        "customer": "Nisha Kapoor",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 1080.0,
+        "date": "2026-05-03 17:59:28.000000"
+    },
+    "2026-05-03 22:17:20.000000": {
+        "customer": "Pradeep Mishra",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            }
+        ],
+        "total": 900.0,
+        "date": "2026-05-03 22:17:20.000000"
+    },
+    "2026-05-04 02:05:23.000000": {
+        "customer": "Pradeep Mishra",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            }
+        ],
+        "total": 750.0,
+        "date": "2026-05-04 02:05:23.000000"
+    },
+    "2026-05-04 08:23:00.000000": {
+        "customer": "Rekha Joshi",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            }
+        ],
+        "total": 1210.0,
+        "date": "2026-05-04 08:23:00.000000"
+    },
+    "2026-05-03 16:57:35.000000": {
+        "customer": "Rekha Joshi",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            }
+        ],
+        "total": 960.0,
+        "date": "2026-05-03 16:57:35.000000"
+    },
+    "2026-05-04 10:07:22.000000": {
+        "customer": "Ajay Patel",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            }
+        ],
+        "total": 636.0,
+        "date": "2026-05-04 10:07:22.000000"
+    },
+    "2026-05-04 06:52:43.000000": {
+        "customer": "Ajay Patel",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            }
+        ],
+        "total": 1453.0,
+        "date": "2026-05-04 06:52:43.000000"
+    },
+    "2026-05-03 12:52:44.000000": {
+        "customer": "Seema Nair",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            }
+        ],
+        "total": 1385.0,
+        "date": "2026-05-03 12:52:44.000000"
+    },
+    "2026-05-03 13:08:23.000000": {
+        "customer": "Seema Nair",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            }
+        ],
+        "total": 1174.0,
+        "date": "2026-05-03 13:08:23.000000"
+    },
+    "2026-05-03 22:53:19.000000": {
+        "customer": "Vivek Jain",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            }
+        ],
+        "total": 97.0,
+        "date": "2026-05-03 22:53:19.000000"
+    },
+    "2026-05-03 17:06:19.000000": {
+        "customer": "Vivek Jain",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            }
+        ],
+        "total": 891.0,
+        "date": "2026-05-03 17:06:19.000000"
+    },
+    "2026-05-03 11:21:33.000000": {
+        "customer": "Pallavi Sharma",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            }
+        ],
+        "total": 1230.0,
+        "date": "2026-05-03 11:21:33.000000"
+    },
+    "2026-05-04 05:25:38.000000": {
+        "customer": "Pallavi Sharma",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            }
+        ],
+        "total": 860.0,
+        "date": "2026-05-04 05:25:38.000000"
+    },
+    "2026-05-04 02:36:17.000000": {
+        "customer": "Rakesh Kumar",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            }
+        ],
+        "total": 1225.0,
+        "date": "2026-05-04 02:36:17.000000"
+    },
+    "2026-05-03 22:54:59.000000": {
+        "customer": "Rakesh Kumar",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            }
+        ],
+        "total": 1083.0,
+        "date": "2026-05-03 22:54:59.000000"
+    },
+    "2026-05-03 18:31:43.000000": {
+        "customer": "Neeraj Singh",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 855.0,
+        "date": "2026-05-03 18:31:43.000000"
+    },
+    "2026-05-03 15:00:01.000000": {
+        "customer": "Neeraj Singh",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            }
+        ],
+        "total": 915.0,
+        "date": "2026-05-03 15:00:01.000000"
+    },
+    "2026-05-03 21:27:33.000000": {
+        "customer": "Sakshi Verma",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            }
+        ],
+        "total": 615.0,
+        "date": "2026-05-03 21:27:33.000000"
+    },
+    "2026-05-03 12:49:02.000000": {
+        "customer": "Sakshi Verma",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            }
+        ],
+        "total": 598.0,
+        "date": "2026-05-03 12:49:02.000000"
+    },
+    "2026-05-04 03:21:06.000000": {
+        "customer": "Yogesh Tiwari",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            }
+        ],
+        "total": 2855.0,
+        "date": "2026-05-04 03:21:06.000000"
+    },
+    "2026-05-03 17:48:41.000000": {
+        "customer": "Yogesh Tiwari",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            }
+        ],
+        "total": 648.0,
+        "date": "2026-05-03 17:48:41.000000"
+    },
+    "2026-05-03 16:06:01.000000": {
+        "customer": "Alka Deshpande",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            }
+        ],
+        "total": 1170.0,
+        "date": "2026-05-03 16:06:01.000000"
+    },
+    "2026-05-03 18:03:29.000000": {
+        "customer": "Alka Deshpande",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            }
+        ],
+        "total": 204.0,
+        "date": "2026-05-03 18:03:29.000000"
+    },
+    "2026-05-03 20:19:08.000000": {
+        "customer": "Dinesh Yadav",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            }
+        ],
+        "total": 1245.0,
+        "date": "2026-05-03 20:19:08.000000"
+    },
+    "2026-05-03 17:10:45.000000": {
+        "customer": "Dinesh Yadav",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            }
+        ],
+        "total": 1810.0,
+        "date": "2026-05-03 17:10:45.000000"
+    },
+    "2026-05-04 01:47:28.000000": {
+        "customer": "Mohit Sharma",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            }
+        ],
+        "total": 465.0,
+        "date": "2026-05-04 01:47:28.000000"
+    },
+    "2026-05-04 10:42:32.000000": {
+        "customer": "Mohit Sharma",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            }
+        ],
+        "total": 238.0,
+        "date": "2026-05-04 10:42:32.000000"
+    },
+    "2026-05-03 15:47:51.000000": {
+        "customer": "Isha Gupta",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            }
+        ],
+        "total": 1945.0,
+        "date": "2026-05-03 15:47:51.000000"
+    },
+    "2026-05-03 15:40:27.000000": {
+        "customer": "Isha Gupta",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            }
+        ],
+        "total": 1050.0,
+        "date": "2026-05-03 15:40:27.000000"
+    },
+    "2026-05-03 22:10:51.000000": {
+        "customer": "Kunal Singh",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 679.0,
+        "date": "2026-05-03 22:10:51.000000"
+    },
+    "2026-05-03 22:33:20.000000": {
+        "customer": "Kunal Singh",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            }
+        ],
+        "total": 345.0,
+        "date": "2026-05-03 22:33:20.000000"
+    },
+    "2026-05-04 04:50:40.000000": {
+        "customer": "Payal Jain",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 965.0,
+        "date": "2026-05-04 04:50:40.000000"
+    },
+    "2026-05-04 03:35:13.000000": {
+        "customer": "Payal Jain",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            }
+        ],
+        "total": 1080.0,
+        "date": "2026-05-04 03:35:13.000000"
+    },
+    "2026-05-03 10:10:27.000000": {
+        "customer": "Varun Mehta",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            }
+        ],
+        "total": 1035.0,
+        "date": "2026-05-03 10:10:27.000000"
+    },
+    "2026-05-04 04:54:05.000000": {
+        "customer": "Varun Mehta",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            }
+        ],
+        "total": 645.0,
+        "date": "2026-05-04 04:54:05.000000"
+    },
+    "2026-05-04 06:20:20.000000": {
+        "customer": "Riya Sharma",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            }
+        ],
+        "total": 645.0,
+        "date": "2026-05-04 06:20:20.000000"
+    },
+    "2026-05-03 18:30:20.000000": {
+        "customer": "Riya Sharma",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            }
+        ],
+        "total": 150.0,
+        "date": "2026-05-03 18:30:20.000000"
+    },
+    "2026-05-03 22:48:10.000000": {
+        "customer": "Aditya Verma",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            }
+        ],
+        "total": 1055.0,
+        "date": "2026-05-03 22:48:10.000000"
+    },
+    "2026-05-03 23:48:22.000000": {
+        "customer": "Aditya Verma",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            }
+        ],
+        "total": 194.0,
+        "date": "2026-05-03 23:48:22.000000"
+    },
+    "2026-05-03 15:19:21.000000": {
+        "customer": "Swati Mishra",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            }
+        ],
+        "total": 785.0,
+        "date": "2026-05-03 15:19:21.000000"
+    },
+    "2026-05-04 02:46:21.000000": {
+        "customer": "Swati Mishra",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            }
+        ],
+        "total": 543.0,
+        "date": "2026-05-04 02:46:21.000000"
+    },
+    "2026-05-03 18:35:35.000000": {
+        "customer": "Harsh Patel",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            }
+        ],
+        "total": 680.0,
+        "date": "2026-05-03 18:35:35.000000"
+    },
+    "2026-05-04 13:14:40.000000": {
+        "customer": "Harsh Patel",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            }
+        ],
+        "total": 1570.0,
+        "date": "2026-05-04 13:14:40.000000"
+    },
+    "2026-05-04 01:28:38.000000": {
+        "customer": "Tina Kapoor",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            }
+        ],
+        "total": 2010.0,
+        "date": "2026-05-04 01:28:38.000000"
+    },
+    "2026-05-04 06:12:52.000000": {
+        "customer": "Tina Kapoor",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            }
+        ],
+        "total": 1130.0,
+        "date": "2026-05-04 06:12:52.000000"
+    },
+    "2026-05-03 13:58:53.000000": {
+        "customer": "Lokesh Yadav",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            }
+        ],
+        "total": 900.0,
+        "date": "2026-05-03 13:58:53.000000"
+    },
+    "2026-05-04 08:57:58.000000": {
+        "customer": "Lokesh Yadav",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            }
+        ],
+        "total": 495.0,
+        "date": "2026-05-04 08:57:58.000000"
+    },
+    "2026-05-03 19:57:05.000000": {
+        "customer": "Bhavna Nair",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            }
+        ],
+        "total": 893.0,
+        "date": "2026-05-03 19:57:05.000000"
+    },
+    "2026-05-04 11:51:11.000000": {
+        "customer": "Bhavna Nair",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            }
+        ],
+        "total": 650.0,
+        "date": "2026-05-04 11:51:11.000000"
+    },
+    "2026-05-03 19:02:04.000000": {
+        "customer": "Sameer Khan",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            }
+        ],
+        "total": 1215.0,
+        "date": "2026-05-03 19:02:04.000000"
+    },
+    "2026-05-04 10:18:45.000000": {
+        "customer": "Sameer Khan",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            }
+        ],
+        "total": 2490.0,
+        "date": "2026-05-04 10:18:45.000000"
+    },
+    "2026-05-04 10:33:21.000000": {
+        "customer": "Farah Ali",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            }
+        ],
+        "total": 1118.0,
+        "date": "2026-05-04 10:33:21.000000"
+    },
+    "2026-05-03 22:23:48.000000": {
+        "customer": "Farah Ali",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            }
+        ],
+        "total": 935.0,
+        "date": "2026-05-03 22:23:48.000000"
+    },
+    "2026-05-03 18:04:23.000000": {
+        "customer": "Imran Sheikh",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            }
+        ],
+        "total": 490.0,
+        "date": "2026-05-03 18:04:23.000000"
+    },
+    "2026-05-04 07:57:44.000000": {
+        "customer": "Imran Sheikh",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            }
+        ],
+        "total": 1040.0,
+        "date": "2026-05-04 07:57:44.000000"
+    },
+    "2026-05-04 11:18:40.000000": {
+        "customer": "Zoya Khan",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            }
+        ],
+        "total": 1300.0,
+        "date": "2026-05-04 11:18:40.000000"
+    },
+    "2026-05-04 01:24:58.000000": {
+        "customer": "Zoya Khan",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            }
+        ],
+        "total": 310.0,
+        "date": "2026-05-04 01:24:58.000000"
+    },
+    "2026-05-04 07:05:05.000000": {
+        "customer": "Asif Qureshi",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 1610.0,
+        "date": "2026-05-04 07:05:05.000000"
+    },
+    "2026-05-04 09:02:15.000000": {
+        "customer": "Asif Qureshi",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            }
+        ],
+        "total": 375.0,
+        "date": "2026-05-04 09:02:15.000000"
+    },
+    "2026-05-03 17:03:39.000000": {
+        "customer": "Nazia Begum",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            }
+        ],
+        "total": 1300.0,
+        "date": "2026-05-03 17:03:39.000000"
+    },
+    "2026-05-03 19:56:06.000000": {
+        "customer": "Nazia Begum",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            }
+        ],
+        "total": 945.0,
+        "date": "2026-05-03 19:56:06.000000"
+    },
+    "2026-05-03 16:31:24.000000": {
+        "customer": "Salman Ansari",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            }
+        ],
+        "total": 2310.0,
+        "date": "2026-05-03 16:31:24.000000"
+    },
+    "2026-05-03 14:00:43.000000": {
+        "customer": "Salman Ansari",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            }
+        ],
+        "total": 1010.0,
+        "date": "2026-05-03 14:00:43.000000"
+    },
+    "2026-05-03 20:48:42.000000": {
+        "customer": "Ayesha Siddiqui",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            }
+        ],
+        "total": 680.0,
+        "date": "2026-05-03 20:48:42.000000"
+    },
+    "2026-05-03 16:28:36.000000": {
+        "customer": "Ayesha Siddiqui",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            }
+        ],
+        "total": 1360.0,
+        "date": "2026-05-03 16:28:36.000000"
+    },
+    "2026-05-04 11:10:01.000000": {
+        "customer": "Ravi Shukla",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            }
+        ],
+        "total": 549.0,
+        "date": "2026-05-04 11:10:01.000000"
+    },
+    "2026-05-03 15:55:23.000000": {
+        "customer": "Ravi Shukla",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 954.0,
+        "date": "2026-05-03 15:55:23.000000"
+    },
+    "2026-05-03 17:10:07.000000": {
+        "customer": "Geeta Tripathi",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            }
+        ],
+        "total": 1120.0,
+        "date": "2026-05-03 17:10:07.000000"
+    },
+    "2026-05-03 12:43:29.000000": {
+        "customer": "Geeta Tripathi",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            }
+        ],
+        "total": 505.0,
+        "date": "2026-05-03 12:43:29.000000"
+    },
+    "2026-05-03 11:48:59.000000": {
+        "customer": "Om Prakash",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            }
+        ],
+        "total": 1173.0,
+        "date": "2026-05-03 11:48:59.000000"
+    },
+    "2026-05-04 13:42:39.000000": {
+        "customer": "Om Prakash",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            }
+        ],
+        "total": 705.0,
+        "date": "2026-05-04 13:42:39.000000"
+    },
+    "2026-05-03 19:05:41.000000": {
+        "customer": "Lata Soni",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            }
+        ],
+        "total": 320.0,
+        "date": "2026-05-03 19:05:41.000000"
+    },
+    "2026-05-04 10:46:18.000000": {
+        "customer": "Lata Soni",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            }
+        ],
+        "total": 1405.0,
+        "date": "2026-05-04 10:46:18.000000"
+    },
+    "2026-05-03 22:13:05.000000": {
+        "customer": "Pankaj Dubey",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            }
+        ],
+        "total": 1521.0,
+        "date": "2026-05-03 22:13:05.000000"
+    },
+    "2026-05-03 20:31:11.000000": {
+        "customer": "Pankaj Dubey",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            }
+        ],
+        "total": 1285.0,
+        "date": "2026-05-03 20:31:11.000000"
+    },
+    "2026-05-04 09:29:30.000000": {
+        "customer": "Jyoti Chaturvedi",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            }
+        ],
+        "total": 1695.0,
+        "date": "2026-05-04 09:29:30.000000"
+    },
+    "2026-05-04 01:37:15.000000": {
+        "customer": "Jyoti Chaturvedi",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            }
+        ],
+        "total": 631.0,
+        "date": "2026-05-04 01:37:15.000000"
+    },
+    "2026-05-03 20:29:47.000000": {
+        "customer": "Hemant Kulkarni",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            }
+        ],
+        "total": 1265.0,
+        "date": "2026-05-03 20:29:47.000000"
+    },
+    "2026-05-03 14:01:50.000000": {
+        "customer": "Hemant Kulkarni",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            }
+        ],
+        "total": 915.0,
+        "date": "2026-05-03 14:01:50.000000"
+    },
+    "2026-05-03 15:41:51.000000": {
+        "customer": "Shruti Bansal",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            }
+        ],
+        "total": 985.0,
+        "date": "2026-05-03 15:41:51.000000"
+    },
+    "2026-05-04 13:33:49.000000": {
+        "customer": "Shruti Bansal",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            }
+        ],
+        "total": 955.0,
+        "date": "2026-05-04 13:33:49.000000"
+    },
+    "2026-05-03 16:28:54.000000": {
+        "customer": "Ankit Saxena",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            }
+        ],
+        "total": 330.0,
+        "date": "2026-05-03 16:28:54.000000"
+    },
+    "2026-05-03 17:59:27.000000": {
+        "customer": "Ankit Saxena",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            }
+        ],
+        "total": 450.0,
+        "date": "2026-05-03 17:59:27.000000"
+    },
+    "2026-05-04 08:17:32.000000": {
+        "customer": "Monika Arora",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            }
+        ],
+        "total": 1420.0,
+        "date": "2026-05-04 08:17:32.000000"
+    },
+    "2026-05-04 07:58:14.000000": {
+        "customer": "Monika Arora",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            }
+        ],
+        "total": 706.0,
+        "date": "2026-05-04 07:58:14.000000"
+    },
+    "2026-05-03 16:19:37.000000": {
+        "customer": "Dheeraj Sahu",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            }
+        ],
+        "total": 1230.0,
+        "date": "2026-05-03 16:19:37.000000"
+    },
+    "2026-05-03 18:33:28.000000": {
+        "customer": "Dheeraj Sahu",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            }
+        ],
+        "total": 1110.0,
+        "date": "2026-05-03 18:33:28.000000"
+    },
+    "2026-05-03 23:19:25.000000": {
+        "customer": "Chhavi Goyal",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            }
+        ],
+        "total": 1305.0,
+        "date": "2026-05-03 23:19:25.000000"
+    },
+    "2026-05-04 07:05:32.000000": {
+        "customer": "Chhavi Goyal",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            }
+        ],
+        "total": 1525.0,
+        "date": "2026-05-04 07:05:32.000000"
+    },
+    "2026-05-04 08:24:44.000000": {
+        "customer": "Prakash Solanki",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            }
+        ],
+        "total": 1589.0,
+        "date": "2026-05-04 08:24:44.000000"
+    },
+    "2026-05-04 06:09:36.000000": {
+        "customer": "Prakash Solanki",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            }
+        ],
+        "total": 2010.0,
+        "date": "2026-05-04 06:09:36.000000"
+    },
+    "2026-05-04 04:19:52.000000": {
+        "customer": "Rashmi Jha",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            }
+        ],
+        "total": 1405.0,
+        "date": "2026-05-04 04:19:52.000000"
+    },
+    "2026-05-03 19:22:37.000000": {
+        "customer": "Rashmi Jha",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            }
+        ],
+        "total": 1610.0,
+        "date": "2026-05-03 19:22:37.000000"
+    },
+    "2026-05-03 11:52:22.000000": {
+        "customer": "Umesh Chouhan",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            }
+        ],
+        "total": 784.0,
+        "date": "2026-05-03 11:52:22.000000"
+    },
+    "2026-05-04 07:39:03.000000": {
+        "customer": "Umesh Chouhan",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 1140.0,
+        "date": "2026-05-04 07:39:03.000000"
+    },
+    "2026-05-03 16:38:05.000000": {
+        "customer": "Vinod Lodhi",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            }
+        ],
+        "total": 796.0,
+        "date": "2026-05-03 16:38:05.000000"
+    },
+    "2026-05-03 13:59:57.000000": {
+        "customer": "Vinod Lodhi",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            }
+        ],
+        "total": 154.0,
+        "date": "2026-05-03 13:59:57.000000"
+    },
+    "2026-05-04 01:18:58.000000": {
+        "customer": "Kiran Ahirwar",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 430.0,
+        "date": "2026-05-04 01:18:58.000000"
+    },
+    "2026-05-04 04:47:25.000000": {
+        "customer": "Kiran Ahirwar",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 418.0,
+        "date": "2026-05-04 04:47:25.000000"
+    },
+    "2026-05-04 02:24:19.000000": {
+        "customer": "Rajkumar Vishwakarma",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            }
+        ],
+        "total": 525.0,
+        "date": "2026-05-04 02:24:19.000000"
+    },
+    "2026-05-03 12:46:15.000000": {
+        "customer": "Rajkumar Vishwakarma",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            }
+        ],
+        "total": 567.0,
+        "date": "2026-05-03 12:46:15.000000"
+    },
+    "2026-05-04 01:06:20.000000": {
+        "customer": "Savita Kushwaha",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            }
+        ],
+        "total": 516.0,
+        "date": "2026-05-04 01:06:20.000000"
+    },
+    "2026-05-04 08:30:59.000000": {
+        "customer": "Savita Kushwaha",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            }
+        ],
+        "total": 1440.0,
+        "date": "2026-05-04 08:30:59.000000"
+    },
+    "2026-05-03 11:18:32.000000": {
+        "customer": "Mukesh Prajapati",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 460.0,
+        "date": "2026-05-03 11:18:32.000000"
+    },
+    "2026-05-04 00:19:05.000000": {
+        "customer": "Mukesh Prajapati",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            }
+        ],
+        "total": 1490.0,
+        "date": "2026-05-04 00:19:05.000000"
+    },
+    "2026-05-04 12:30:37.000000": {
+        "customer": "Ashok Yadav",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            }
+        ],
+        "total": 1245.0,
+        "date": "2026-05-04 12:30:37.000000"
+    },
+    "2026-05-04 07:34:19.000000": {
+        "customer": "Ashok Yadav",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            }
+        ],
+        "total": 1340.0,
+        "date": "2026-05-04 07:34:19.000000"
+    },
+    "2026-05-04 11:03:40.000000": {
+        "customer": "Sunita Patel",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            }
+        ],
+        "total": 1083.0,
+        "date": "2026-05-04 11:03:40.000000"
+    },
+    "2026-05-04 04:29:43.000000": {
+        "customer": "Sunita Patel",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            }
+        ],
+        "total": 1275.0,
+        "date": "2026-05-04 04:29:43.000000"
+    },
+    "2026-05-04 06:31:57.000000": {
+        "customer": "Ramesh Gupta",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            }
+        ],
+        "total": 572.0,
+        "date": "2026-05-04 06:31:57.000000"
+    },
+    "2026-05-03 23:59:01.000000": {
+        "customer": "Ramesh Gupta",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            }
+        ],
+        "total": 1345.0,
+        "date": "2026-05-03 23:59:01.000000"
+    },
+    "2026-05-04 02:22:08.000000": {
+        "customer": "Kamla Bai",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            }
+        ],
+        "total": 525.0,
+        "date": "2026-05-04 02:22:08.000000"
+    },
+    "2026-05-04 03:31:37.000000": {
+        "customer": "Kamla Bai",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            }
+        ],
+        "total": 1265.0,
+        "date": "2026-05-04 03:31:37.000000"
+    },
+    "2026-05-04 11:26:35.000000": {
+        "customer": "Mahesh Yadav",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            }
+        ],
+        "total": 1712.0,
+        "date": "2026-05-04 11:26:35.000000"
+    },
+    "2026-05-04 00:03:17.000000": {
+        "customer": "Mahesh Yadav",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            }
+        ],
+        "total": 1547.0,
+        "date": "2026-05-04 00:03:17.000000"
+    },
+    "2026-05-03 22:45:22.000000": {
+        "customer": "Sejal Shah",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 1135.0,
+        "date": "2026-05-03 22:45:22.000000"
+    },
+    "2026-05-04 10:09:32.000000": {
+        "customer": "Sejal Shah",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            }
+        ],
+        "total": 1820.0,
+        "date": "2026-05-04 10:09:32.000000"
+    },
+    "2026-05-03 14:28:08.000000": {
+        "customer": "Darshan Patel",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            }
+        ],
+        "total": 1505.0,
+        "date": "2026-05-03 14:28:08.000000"
+    },
+    "2026-05-03 19:45:01.000000": {
+        "customer": "Darshan Patel",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            }
+        ],
+        "total": 705.0,
+        "date": "2026-05-03 19:45:01.000000"
+    },
+    "2026-05-04 10:28:23.000000": {
+        "customer": "Krupa Mehta",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            }
+        ],
+        "total": 235.0,
+        "date": "2026-05-04 10:28:23.000000"
+    },
+    "2026-05-04 10:07:52.000000": {
+        "customer": "Krupa Mehta",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            }
+        ],
+        "total": 1020.0,
+        "date": "2026-05-04 10:07:52.000000"
+    },
+    "2026-05-04 07:03:50.000000": {
+        "customer": "Jignesh Patel",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            }
+        ],
+        "total": 530.0,
+        "date": "2026-05-04 07:03:50.000000"
+    },
+    "2026-05-03 23:04:47.000000": {
+        "customer": "Jignesh Patel",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            }
+        ],
+        "total": 384.0,
+        "date": "2026-05-03 23:04:47.000000"
+    },
+    "2026-05-04 03:49:40.000000": {
+        "customer": "Hetal Shah",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            }
+        ],
+        "total": 1195.0,
+        "date": "2026-05-04 03:49:40.000000"
+    },
+    "2026-05-04 03:37:24.000000": {
+        "customer": "Hetal Shah",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 455.0,
+        "date": "2026-05-04 03:37:24.000000"
+    },
+    "2026-05-03 14:26:03.000000": {
+        "customer": "Tushar Patil",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 977.0,
+        "date": "2026-05-03 14:26:03.000000"
+    },
+    "2026-05-03 20:07:54.000000": {
+        "customer": "Tushar Patil",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            }
+        ],
+        "total": 1350.0,
+        "date": "2026-05-03 20:07:54.000000"
+    },
+    "2026-05-04 07:36:14.000000": {
+        "customer": "Snehal Patil",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            }
+        ],
+        "total": 980.0,
+        "date": "2026-05-04 07:36:14.000000"
+    },
+    "2026-05-03 22:16:34.000000": {
+        "customer": "Snehal Patil",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            }
+        ],
+        "total": 330.0,
+        "date": "2026-05-03 22:16:34.000000"
+    },
+    "2026-05-04 09:26:59.000000": {
+        "customer": "Ganesh Pawar",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            }
+        ],
+        "total": 780.0,
+        "date": "2026-05-04 09:26:59.000000"
+    },
+    "2026-05-03 13:19:19.000000": {
+        "customer": "Ganesh Pawar",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            }
+        ],
+        "total": 1255.0,
+        "date": "2026-05-03 13:19:19.000000"
+    },
+    "2026-05-04 01:49:53.000000": {
+        "customer": "Vaishali More",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            }
+        ],
+        "total": 939.0,
+        "date": "2026-05-04 01:49:53.000000"
+    },
+    "2026-05-03 22:19:12.000000": {
+        "customer": "Vaishali More",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            }
+        ],
+        "total": 825.0,
+        "date": "2026-05-03 22:19:12.000000"
+    },
+    "2026-05-03 15:45:53.000000": {
+        "customer": "Nilesh Shinde",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 1345.0,
+        "date": "2026-05-03 15:45:53.000000"
+    },
+    "2026-05-04 06:18:06.000000": {
+        "customer": "Nilesh Shinde",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            },
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            }
+        ],
+        "total": 328.0,
+        "date": "2026-05-04 06:18:06.000000"
+    },
+    "2026-05-03 15:57:21.000000": {
+        "customer": "Amol Jadhav",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            }
+        ],
+        "total": 2070.0,
+        "date": "2026-05-03 15:57:21.000000"
+    },
+    "2026-05-04 08:31:56.000000": {
+        "customer": "Amol Jadhav",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            }
+        ],
+        "total": 1295.0,
+        "date": "2026-05-04 08:31:56.000000"
+    },
+    "2026-05-04 04:17:40.000000": {
+        "customer": "Priti Chavan",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            }
+        ],
+        "total": 810.0,
+        "date": "2026-05-04 04:17:40.000000"
+    },
+    "2026-05-04 08:29:29.000000": {
+        "customer": "Priti Chavan",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            }
+        ],
+        "total": 1390.0,
+        "date": "2026-05-04 08:29:29.000000"
+    },
+    "2026-05-03 21:25:01.000000": {
+        "customer": "Sagar Koli",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            }
+        ],
+        "total": 1287.0,
+        "date": "2026-05-03 21:25:01.000000"
+    },
+    "2026-05-03 23:48:48.000000": {
+        "customer": "Sagar Koli",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            }
+        ],
+        "total": 1380.0,
+        "date": "2026-05-03 23:48:48.000000"
+    },
+    "2026-05-04 13:45:19.000000": {
+        "customer": "Rutuja Deshmukh",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            }
+        ],
+        "total": 93.0,
+        "date": "2026-05-04 13:45:19.000000"
+    },
+    "2026-05-04 12:19:37.000000": {
+        "customer": "Rutuja Deshmukh",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 755.0,
+        "date": "2026-05-04 12:19:37.000000"
+    },
+    "2026-05-04 12:08:09.000000": {
+        "customer": "Tejas Kulkarni",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            }
+        ],
+        "total": 729.0,
+        "date": "2026-05-04 12:08:09.000000"
+    },
+    "2026-05-03 19:34:45.000000": {
+        "customer": "Tejas Kulkarni",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            }
+        ],
+        "total": 626.0,
+        "date": "2026-05-03 19:34:45.000000"
+    },
+    "2026-05-04 12:16:39.000000": {
+        "customer": "Abhishek Srivastava",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            }
+        ],
+        "total": 1300.0,
+        "date": "2026-05-04 12:16:39.000000"
+    },
+    "2026-05-03 10:39:51.000000": {
+        "customer": "Abhishek Srivastava",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            }
+        ],
+        "total": 1290.0,
+        "date": "2026-05-03 10:39:51.000000"
+    },
+    "2026-05-04 01:54:50.000000": {
+        "customer": "Garima Srivastava",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 3,
+                "price": 120.0,
+                "total": 360.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            }
+        ],
+        "total": 855.0,
+        "date": "2026-05-04 01:54:50.000000"
+    },
+    "2026-05-03 20:06:04.000000": {
+        "customer": "Garima Srivastava",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            }
+        ],
+        "total": 390.0,
+        "date": "2026-05-03 20:06:04.000000"
+    },
+    "2026-05-03 11:23:44.000000": {
+        "customer": "Mayank Agarwal",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 1590.0,
+        "date": "2026-05-03 11:23:44.000000"
+    },
+    "2026-05-03 10:40:03.000000": {
+        "customer": "Mayank Agarwal",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            }
+        ],
+        "total": 600.0,
+        "date": "2026-05-03 10:40:03.000000"
+    },
+    "2026-05-04 01:15:37.000000": {
+        "customer": "Richa Agarwal",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            }
+        ],
+        "total": 881.0,
+        "date": "2026-05-04 01:15:37.000000"
+    },
+    "2026-05-04 12:47:10.000000": {
+        "customer": "Richa Agarwal",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            }
+        ],
+        "total": 1160.0,
+        "date": "2026-05-04 12:47:10.000000"
+    },
+    "2026-05-03 15:41:38.000000": {
+        "customer": "Anurag Dwivedi",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            }
+        ],
+        "total": 2340.0,
+        "date": "2026-05-03 15:41:38.000000"
+    },
+    "2026-05-04 08:18:47.000000": {
+        "customer": "Anurag Dwivedi",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 2,
+                "price": 140.0,
+                "total": 280.0
+            }
+        ],
+        "total": 1250.0,
+        "date": "2026-05-04 08:18:47.000000"
+    },
+    "2026-05-04 13:06:59.000000": {
+        "customer": "Shivani Dwivedi",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            }
+        ],
+        "total": 845.0,
+        "date": "2026-05-04 13:06:59.000000"
+    },
+    "2026-05-03 14:07:15.000000": {
+        "customer": "Shivani Dwivedi",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            }
+        ],
+        "total": 1195.0,
+        "date": "2026-05-03 14:07:15.000000"
+    },
+    "2026-05-03 18:32:15.000000": {
+        "customer": "Pranav Chaturvedi",
+        "items": [
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            }
+        ],
+        "total": 1590.0,
+        "date": "2026-05-03 18:32:15.000000"
+    },
+    "2026-05-03 11:52:27.000000": {
+        "customer": "Pranav Chaturvedi",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            }
+        ],
+        "total": 431.0,
+        "date": "2026-05-03 11:52:27.000000"
+    },
+    "2026-05-03 15:13:00.000000": {
+        "customer": "Nandini Tiwari",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 5,
+                "price": 210.0,
+                "total": 1050.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            }
+        ],
+        "total": 1235.0,
+        "date": "2026-05-03 15:13:00.000000"
+    },
+    "2026-05-03 11:36:49.000000": {
+        "customer": "Nandini Tiwari",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            }
+        ],
+        "total": 1020.0,
+        "date": "2026-05-03 11:36:49.000000"
+    },
+    "2026-05-04 05:30:01.000000": {
+        "customer": "Ayush Tripathi",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            }
+        ],
+        "total": 2086.0,
+        "date": "2026-05-04 05:30:01.000000"
+    },
+    "2026-05-03 16:51:43.000000": {
+        "customer": "Ayush Tripathi",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            }
+        ],
+        "total": 940.0,
+        "date": "2026-05-03 16:51:43.000000"
+    },
+    "2026-05-03 21:32:58.000000": {
+        "customer": "Sakshi Pandey",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 4,
+                "price": 12.0,
+                "total": 48.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            }
+        ],
+        "total": 543.0,
+        "date": "2026-05-03 21:32:58.000000"
+    },
+    "2026-05-03 11:33:31.000000": {
+        "customer": "Sakshi Pandey",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 4,
+                "price": 210.0,
+                "total": 840.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            }
+        ],
+        "total": 1085.0,
+        "date": "2026-05-03 11:33:31.000000"
+    },
+    "2026-05-04 05:34:44.000000": {
+        "customer": "Devansh Shukla",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            }
+        ],
+        "total": 591.0,
+        "date": "2026-05-04 05:34:44.000000"
+    },
+    "2026-05-03 23:01:00.000000": {
+        "customer": "Devansh Shukla",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 1,
+                "price": 185.0,
+                "total": 185.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            }
+        ],
+        "total": 1170.0,
+        "date": "2026-05-03 23:01:00.000000"
+    },
+    "2026-05-04 04:37:57.000000": {
+        "customer": "Ishita Shukla",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 5,
+                "price": 45.0,
+                "total": 225.0
+            }
+        ],
+        "total": 700.0,
+        "date": "2026-05-04 04:37:57.000000"
+    },
+    "2026-05-03 23:46:01.000000": {
+        "customer": "Ishita Shukla",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            }
+        ],
+        "total": 715.0,
+        "date": "2026-05-03 23:46:01.000000"
+    },
+    "2026-05-04 12:07:55.000000": {
+        "customer": "Lakshya Mishra",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 3,
+                "price": 45.0,
+                "total": 135.0
+            },
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            }
+        ],
+        "total": 147.0,
+        "date": "2026-05-04 12:07:55.000000"
+    },
+    "2026-05-04 12:06:11.000000": {
+        "customer": "Lakshya Mishra",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 2,
+                "price": 85.0,
+                "total": 170.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 1,
+                "price": 210.0,
+                "total": 210.0
+            }
+        ],
+        "total": 470.0,
+        "date": "2026-05-04 12:06:11.000000"
+    },
+    "2026-05-03 14:13:27.000000": {
+        "customer": "Tanvi Mishra",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            }
+        ],
+        "total": 565.0,
+        "date": "2026-05-03 14:13:27.000000"
+    },
+    "2026-05-03 12:09:51.000000": {
+        "customer": "Tanvi Mishra",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            }
+        ],
+        "total": 795.0,
+        "date": "2026-05-03 12:09:51.000000"
+    },
+    "2026-05-04 06:57:25.000000": {
+        "customer": "Aryan Pandey",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            }
+        ],
+        "total": 865.0,
+        "date": "2026-05-04 06:57:25.000000"
+    },
+    "2026-05-04 05:58:05.000000": {
+        "customer": "Aryan Pandey",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            }
+        ],
+        "total": 284.0,
+        "date": "2026-05-04 05:58:05.000000"
+    },
+    "2026-05-04 02:19:58.000000": {
+        "customer": "Muskan Singh",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            }
+        ],
+        "total": 390.0,
+        "date": "2026-05-04 02:19:58.000000"
+    },
+    "2026-05-04 11:25:33.000000": {
+        "customer": "Muskan Singh",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            }
+        ],
+        "total": 1140.0,
+        "date": "2026-05-04 11:25:33.000000"
+    },
+    "2026-05-03 15:25:16.000000": {
+        "customer": "Yash Verma",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            }
+        ],
+        "total": 654.0,
+        "date": "2026-05-03 15:25:16.000000"
+    },
+    "2026-05-03 11:43:47.000000": {
+        "customer": "Yash Verma",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 3,
+                "price": 95.0,
+                "total": 285.0
+            },
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            }
+        ],
+        "total": 309.0,
+        "date": "2026-05-03 11:43:47.000000"
+    },
+    "2026-05-03 11:22:27.000000": {
+        "customer": "Simran Kaur",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            }
+        ],
+        "total": 435.0,
+        "date": "2026-05-03 11:22:27.000000"
+    },
+    "2026-05-03 10:13:18.000000": {
+        "customer": "Simran Kaur",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            }
+        ],
+        "total": 710.0,
+        "date": "2026-05-03 10:13:18.000000"
+    },
+    "2026-05-04 08:38:56.000000": {
+        "customer": "Gurpreet Singh",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 5,
+                "price": 140.0,
+                "total": 700.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            }
+        ],
+        "total": 1125.0,
+        "date": "2026-05-04 08:38:56.000000"
+    },
+    "2026-05-03 10:43:07.000000": {
+        "customer": "Gurpreet Singh",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 5,
+                "price": 85.0,
+                "total": 425.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 1,
+                "price": 45.0,
+                "total": 45.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            }
+        ],
+        "total": 1450.0,
+        "date": "2026-05-03 10:43:07.000000"
+    },
+    "2026-05-03 10:35:03.000000": {
+        "customer": "Harpreet Kaur",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 4,
+                "price": 120.0,
+                "total": 480.0
+            }
+        ],
+        "total": 504.0,
+        "date": "2026-05-03 10:35:03.000000"
+    },
+    "2026-05-03 16:41:20.000000": {
+        "customer": "Harpreet Kaur",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 2,
+                "price": 12.0,
+                "total": 24.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 3,
+                "price": 185.0,
+                "total": 555.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 4,
+                "price": 95.0,
+                "total": 380.0
+            }
+        ],
+        "total": 959.0,
+        "date": "2026-05-03 16:41:20.000000"
+    },
+    "2026-05-03 21:36:34.000000": {
+        "customer": "Baldev Singh",
+        "items": [
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Soap",
+                "qty": 1,
+                "price": 12.0,
+                "total": 12.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            }
+        ],
+        "total": 687.0,
+        "date": "2026-05-03 21:36:34.000000"
+    },
+    "2026-05-03 10:05:08.000000": {
+        "customer": "Baldev Singh",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 3,
+                "price": 140.0,
+                "total": 420.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 5,
+                "price": 95.0,
+                "total": 475.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            }
+        ],
+        "total": 1265.0,
+        "date": "2026-05-03 10:05:08.000000"
+    },
+    "2026-05-04 03:40:03.000000": {
+        "customer": "Manpreet Kaur",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 5,
+                "price": 120.0,
+                "total": 600.0
+            }
+        ],
+        "total": 1340.0,
+        "date": "2026-05-04 03:40:03.000000"
+    },
+    "2026-05-03 19:53:49.000000": {
+        "customer": "Manpreet Kaur",
+        "items": [
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Shampoo",
+                "qty": 4,
+                "price": 185.0,
+                "total": 740.0
+            }
+        ],
+        "total": 920.0,
+        "date": "2026-05-03 19:53:49.000000"
+    },
+    "2026-05-03 15:42:10.000000": {
+        "customer": "Jasleen Kaur",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 5,
+                "price": 185.0,
+                "total": 925.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 3,
+                "price": 85.0,
+                "total": 255.0
+            },
+            {
+                "name": "Toothbrush",
+                "qty": 4,
+                "price": 45.0,
+                "total": 180.0
+            }
+        ],
+        "total": 1360.0,
+        "date": "2026-05-03 15:42:10.000000"
+    },
+    "2026-05-04 00:24:24.000000": {
+        "customer": "Jasleen Kaur",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 1,
+                "price": 95.0,
+                "total": 95.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            }
+        ],
+        "total": 915.0,
+        "date": "2026-05-04 00:24:24.000000"
+    },
+    "2026-05-03 21:29:16.000000": {
+        "customer": "Kuldeep Singh",
+        "items": [
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 3,
+                "price": 210.0,
+                "total": 630.0
+            }
+        ],
+        "total": 666.0,
+        "date": "2026-05-03 21:29:16.000000"
+    },
+    "2026-05-03 11:43:32.000000": {
+        "customer": "Kuldeep Singh",
+        "items": [
+            {
+                "name": "Face Wash",
+                "qty": 4,
+                "price": 140.0,
+                "total": 560.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Soap",
+                "qty": 3,
+                "price": 12.0,
+                "total": 36.0
+            }
+        ],
+        "total": 1016.0,
+        "date": "2026-05-03 11:43:32.000000"
+    },
+    "2026-05-04 12:49:33.000000": {
+        "customer": "Navdeep Singh",
+        "items": [
+            {
+                "name": "Hand Wash",
+                "qty": 1,
+                "price": 85.0,
+                "total": 85.0
+            },
+            {
+                "name": "Toothpaste",
+                "qty": 2,
+                "price": 95.0,
+                "total": 190.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            }
+        ],
+        "total": 815.0,
+        "date": "2026-05-04 12:49:33.000000"
+    },
+    "2026-05-03 23:14:11.000000": {
+        "customer": "Navdeep Singh",
+        "items": [
+            {
+                "name": "Toothbrush",
+                "qty": 2,
+                "price": 45.0,
+                "total": 90.0
+            },
+            {
+                "name": "Hand Wash",
+                "qty": 4,
+                "price": 85.0,
+                "total": 340.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 2,
+                "price": 120.0,
+                "total": 240.0
+            }
+        ],
+        "total": 670.0,
+        "date": "2026-05-03 23:14:11.000000"
+    },
+    "2026-05-03 02:02:57.883448": {
+        "customer": "Navdeep Singh",
+        "items": [
+            {
+                "name": "Shampoo",
+                "qty": 2,
+                "price": 185.0,
+                "total": 370.0
+            },
+            {
+                "name": "Soap",
+                "qty": 5,
+                "price": 12.0,
+                "total": 60.0
+            },
+            {
+                "name": "Face Wash",
+                "qty": 1,
+                "price": 140.0,
+                "total": 140.0
+            },
+            {
+                "name": "Body Lotion",
+                "qty": 2,
+                "price": 210.0,
+                "total": 420.0
+            },
+            {
+                "name": "Hair Oil",
+                "qty": 1,
+                "price": 120.0,
+                "total": 120.0
+            }
+        ],
+        "total": 1165.5,
+        "date": "2026-05-03 02:02:57.883448"
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "Shampoo": {
+        "quantity": 318,
+        "price": 185.0,
+        "threshold": 15
+    },
+    "Soap": {
+        "quantity": 445,
+        "price": 12.0,
+        "threshold": 20
+    },
+    "Toothpaste": {
+        "quantity": 380,
+        "price": 95.0,
+        "threshold": 15
+    },
+    "Toothbrush": {
+        "quantity": 340,
+        "price": 45.0,
+        "threshold": 20
+    },
+    "Hair Oil": {
+        "quantity": 309,
+        "price": 120.0,
+        "threshold": 10
+    },
+    "Face Wash": {
+        "quantity": 359,
+        "price": 140.0,
+        "threshold": 15
+    },
+    "Body Lotion": {
+        "quantity": 298,
+        "price": 210.0,
+        "threshold": 10
+    },
+    "Hand Wash": {
+        "quantity": 420,
+        "price": 85.0,
+        "threshold": 20
+    },
+    "Detergent Powder": {
+        "quantity": 500,
+        "price": 60.0,
+        "threshold": 25
+    },
+    "Dish Wash Liquid": {
+        "quantity": 370,
+        "price": 110.0,
+        "threshold": 15
+    },
+    "Floor Cleaner": {
+        "quantity": 330,
+        "price": 150.0,
+        "threshold": 10
+    },
+    "Glass Cleaner": {
+        "quantity": 305,
+        "price": 130.0,
+        "threshold": 10
+    },
+    "Sanitizer": {
+        "quantity": 410,
+        "price": 70.0,
+        "threshold": 20
+    },
+    "Deodorant": {
+        "quantity": 315,
+        "price": 180.0,
+        "threshold": 10
+    },
+    "Perfume": {
+        "quantity": 300,
+        "price": 550.0,
+        "threshold": 5
+    },
+    "Talcum Powder": {
+        "quantity": 390,
+        "price": 90.0,
+        "threshold": 15
+    },
+    "Shaving Cream": {
+        "quantity": 355,
+        "price": 130.0,
+        "threshold": 10
+    },
+    "Razor": {
+        "quantity": 375,
+        "price": 75.0,
+        "threshold": 15
+    },
+    "Laundry Liquid": {
+        "quantity": 345,
+        "price": 160.0,
+        "threshold": 10
+    },
+    "Toilet Cleaner": {
+        "quantity": 460,
+        "price": 95.0,
+        "threshold": 20
+    },
+    "Paper Towels": {
+        "quantity": 320,
+        "price": 140.0,
+        "threshold": 15
+    },
+    "Tissues": {
+        "quantity": 480,
+        "price": 65.0,
+        "threshold": 25
+    },
+    "Air Freshener": {
+        "quantity": 305,
+        "price": 190.0,
+        "threshold": 10
+    },
+    "Scrub Pads": {
+        "quantity": 415,
+        "price": 25.0,
+        "threshold": 20
+    },
+    "Garbage Bags": {
+        "quantity": 390,
+        "price": 80.0,
+        "threshold": 15
+    }
+}
