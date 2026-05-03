@@ -2,24 +2,22 @@
 A Python-based Point of Sale (POS) and inventory management system with customer tracking, automated billing, PDF invoice generation, and sales analytics visualization.
 
 
-# 🛒 Shop Manager (POS System)
+# Shop Manager (POS System)
 
 A simple **Command-Line Point of Sale (POS) System** built in Python to manage **inventory, customers, billing, and sales reports** with PDF invoice generation.
 
----
 
-## 🚀 Features
+## Features
 
-* 📦 Inventory Management (Add/View items)
-* 👥 Customer Management (Add/View customers)
-* 💳 POS Billing System
-* 🧾 Automatic PDF Invoice Generation
-* 📊 Sales Reports with Charts
-* 💾 JSON-based Data Storage (No database required)
+* Inventory Management (Add/View items)
+* Customer Management (Add/View customers)
+* POS Billing System
+* Automatic PDF Invoice Generation
+* Sales Reports with Charts
+* JSON-based Data Storage (No database required)
 
----
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 ├── shop_manager.py      # Main application
@@ -29,27 +27,24 @@ A simple **Command-Line Point of Sale (POS) System** built in Python to manage *
 ├── invoice_*.pdf        # Generated invoices
 ```
 
----
 
-## ⚙️ Requirements
+## Requirements
 
-Install dependencies before running:
+Install dependencies before running :-
 
 ```bash
 pip install reportlab matplotlib
 ```
 
----
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 python shop_manager.py
 ```
 
----
 
-## 📋 Menu Options
+## Menu Options
 
 ```
 ==== POS SYSTEM ====
@@ -62,25 +57,23 @@ python shop_manager.py
 7. Exit
 ```
 
----
 
-## 🧾 Billing Workflow
+## Billing Workflow
 
 1. Select **Create Bill (POS)**
 2. Enter customer name
 3. Add items (type `done` to finish)
-4. System will:
+4. System will :-
 
    * Calculate total + GST (5%)
    * Update inventory
    * Save sale data
    * Generate PDF invoice automatically
 
----
 
-## 📄 Sample Invoice Output
+## Sample Invoice Output
 
-* Includes:
+* Includes :-
 
   * Customer details
   * Item list (Qty, Price, Total)
@@ -88,7 +81,7 @@ python shop_manager.py
   * GST (5%)
   * Final Total
 
-Generated file:
+Generated file :-
 
 ```
 invoice_<timestamp>.pdf
@@ -96,16 +89,15 @@ invoice_<timestamp>.pdf
 
 ---
 
-## 📊 Sales Report
+## Sales Report
 
-* Displays:
+* Displays :-
 
   * Total sales amount
   * Bar chart of sales by date
 
----
 
-## 💾 Data Storage
+## Data Storage
 
 All data is stored locally using JSON files:
 
@@ -144,9 +136,8 @@ All data is stored locally using JSON files:
 }
 ```
 
----
 
-## 🧠 Key Concepts Used
+## Key Concepts Used
 
 * File Handling (JSON)
 * CLI-based User Interaction
