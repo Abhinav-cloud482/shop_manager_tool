@@ -164,11 +164,15 @@ All data is stored locally using JSON files:
 * Database integration (SQLite/MySQL)
 
 
+## License
+
+This project is open-source and free to use.
+
+
 ## Author
 
 Developed as a simple POS system project using Python.
 
+Abhinav Dixit
 
-## License
-
-This project is open-source and free to use.
+Python Developer | Data & ML Enthusiast
